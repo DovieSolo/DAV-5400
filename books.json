@@ -1,1 +1,6 @@
-"{\"Title\":{\"B1\":\"Death on the Nile\",\"B2\":\"Murder of the Orient\",\"B3\":\"Crooked House\",\"B4\":\"Thirteen Problems\"},\n\"Authors\":{\"B1\":\"Agatha Christie\",\"B2\":\"Agatha Christie\",\"B3\":[\"Agatha Christie\", \"Mary Westmacott\"],\"B4\":\"Agatha Christie\"},\n\"US Release Date\":{\"B1\":\"1938\",\"B2\":\"1934\",\"B3\":\"1949\",\"B4\":\"1933\"},\n\"Series Character\":{\"B1\":\"Poirot\",\"B2\":\"Poirot\",\"B3\":\"Nope\",\"B4\":\"Miss Marple\"}\n\n\n}"
+[{"Title":{"B1":"Death on the Nile","B2":"Murder of the Orient","B3":"Crooked House","B4":"Thirteen Problems"},
+"Authors":{"B1":"Agatha Christie","B2":"Agatha Christie","B3":["Agatha Christie", "Mary Westmacott"],"B4":"Agatha Christie"},
+"US Release Date":{"B1":"1938","B2":"1934","B3":"1949","B4":"1933"},
+"Series Character":{"B1":"Poirot","B2":"Poirot","B3":"Nope","B4":"Miss Marple"}
+
+]
