@@ -1,4 +1,4 @@
-First Name,Last Name,Email,Quantity,Ticket Type,800 Number
+First Name,Last Name,Email,Quantity,Ticket Type,Number
 Jeremy,Koffsky,jeremydkoffsky@gmail.com,1,General Admission,800553899
 Max,Friedman,mxef88@gmail.com,1,General Admission,800625752
 Nina,Anina,anina@mail.yu.edu,1,General Admission,800618069
@@ -92,7 +92,7 @@ Jacqueline ,Englanoff ,jaaenglanoff@gmail.com,1,General Admission,800691010
 Eliana,Lebowitz,elebowi2@mail.yu.edu,1,General Admission,800622003
 Chaya ,Feder ,cfeder@mail.yu.edu,1,General Admission,800677552
 Aviva,Stieglitz,astiegli@mail.yu.edu,1,General Admission,800564455
-Bayla,Weiner,bweiner1@mail.yu.edu,1,General Admission,800678065
+Bayla,Weiner,bweiner1@mail.yu.edu,1,General Admission,800678065.00
 David,Price,dsprice@mail.yu.edu,1,General Admission,800681645
 Jacob,Linder,jalinder@mail.yu.edu,1,General Admission,800557949
 Avigayil,Prince ,avigayilprince12@gmail.com,1,General Admission,800455358
@@ -203,7 +203,7 @@ Annie,Khaimova,anniekh367@gmail.com,1,General Admission,800730646
 Moriya,Berman,mberman2@mail.yu.edu,1,General Admission,800612389
 Temima,Yellin,tyellin@mail.yu.edu,1,General Admission,800563573
 Raphi,Singer,rtsinger@mail.yu.edu,1,General Admission,800625635
-Avi,Schuckman,aschuckm@mail.yu.edu,1,General Admission,800687189
+Avi,Schuckman,aschuckm@mail.yu.edu,1,General Admission,800687189.00
 Gil,Morad,gmorad@mail.yu.edu,1,General Admission,800736237
 William,Lerer,zevlerer@gmail.com,1,General Admission,800687461
 Zissy,Schmelczer,Zcluvsya@gmail.com,1,General Admission,800687613
@@ -221,10 +221,10 @@ Vika,Bekker,vbekker@mail.yu.edu,1,General Admission,800688358
 Daniel,Braha,dbraha@Mail.yu.edu,1,General Admission,800615261
 Ester,Fattakhov,efattakh@mail.yu.edu,1,General Admission,800735126
 Reouven,Elharar,reouven71@icloud.com,1,General Admission,800710937
-Leah,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118
-Ruchama,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118
-Shoshana,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118
-Ahuva,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118
+Leah,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118.00
+Ruchama,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118.00
+Shoshana,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118.00
+Ahuva,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118.00
 Levi,Paris,lparis@mail.yu.edu,1,General Admission,8005691196
 Netanel,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118
 Yosef,Wiederblank,wiederblank@hotmail.com,1,General Admission,9175698118
@@ -355,7 +355,7 @@ Jacob,Schwartzman,jac.schwartzman1@gmail.com,1,General Admission,800563770
 Daniel,Jacob,donijacob13@gmail.com,1,General Admission,800555713
 Michael,Berk,Mberk@mail.YU.edu,1,General Admission,800625576
 Alexander,Schewitz,alexanderschewitz@gmail.com,1,General Admission,800747244
-Jacob ,Katz,jkatz19@mail.yu.edu,1,General Admission,800678638
+Jacob ,Katz,jkatz19@mail.yu.edu,1,General Admission,800678638.00
 aryeh,abergel,ayrehabergel9@gmail.com,1,General Admission,800743670
 Rebecca,Malech,rmalech@mail.yu.edu,1,General Admission,800556953
 Eitan,Asayag,genmonkey1@gmail.com,1,General Admission,800743989
@@ -512,9 +512,9 @@ Aliza,Weiss,ayweiss@mail.yu.edu,1,General Admission,800612773
 Simon,Kleiman,simonkleiman@gmail.com,1,General Admission,800563910
 Kyle,Seidel,mkyleseidel@gmail.com,1,General Admission,800561638
 Jonathan,Noach,noach@mail.yu.edu,1,General Admission,800626070
-Avromi ,Mermelstein ,Zshayne10@gmail.com,1,General Admission,1
+Avromi ,Mermelstein ,Zshayne10@gmail.com,1,General Admission,1.00
 Daniel,Ganopolsky,dannymlb@gmail.com,1,General Admission,800620694
-SOLOMON,CHOINA,shlomochoina@gmail.com,1,General Admission,1
+SOLOMON,CHOINA,shlomochoina@gmail.com,1,General Admission,1.00
 Doron,Schwartz,deschwa2@mail.yu.edu,1,General Admission,800590794
 Jacob,Tollinsky,ytollinsky@gmail.com,1,General Admission,800681659
 Jacob,Tollinsky,ytollinsky@gmail.com,1,General Admission,800681659
